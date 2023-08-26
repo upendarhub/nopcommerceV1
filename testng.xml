@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="utilities.ExtentReportManager"></listener>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="RegressionTest">
+        <parameter name="browser" value="chrome"></parameter>
+        <classes>
+            <class name="testCase.EndToEndTest">
+                <methods>
+                    <include name="endToEndTest"/>
+                </methods>
+            </class>
+            <class name="testCase.TC001_RegistrationTest">
+                <methods>
+                    <include name="registrationTest"/>
+                </methods>
+            </class>
+            <class name="testCase.TC002_LoginTest">
+                <methods>
+                    <include name="loginTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,554 @@
+10:39:48.124 [main] INFO  testCase.EndToEndTest - ***** Starting EndToEnd Test *****
+10:39:48.130 [main] INFO  testCase.EndToEndTest - ---- Starting Home Page ----
+10:39:50.179 [main] INFO  testCase.EndToEndTest - ---- Completed Home Page ----
+10:39:50.180 [main] INFO  testCase.EndToEndTest - ---- Starting Registration Page ----
+10:39:53.452 [main] INFO  testCase.EndToEndTest - ---- Completed Registration Page ----
+10:39:53.452 [main] INFO  testCase.EndToEndTest - ---- Starting Login Page ----
+10:39:54.571 [main] INFO  testCase.EndToEndTest - ---- Completed Login Page ----
+10:39:54.571 [main] INFO  testCase.EndToEndTest - ---- Starting Product Catalogue Page ----
+10:39:56.822 [main] INFO  testCase.EndToEndTest - ---- Completed Product Catalogue Page ----
+10:39:56.822 [main] INFO  testCase.EndToEndTest - ---- Starting Product Page ----
+10:39:59.287 [main] INFO  testCase.EndToEndTest - ---- Completed Product Page ----
+10:39:59.287 [main] INFO  testCase.EndToEndTest - ---- Starting Shopping Cart Page ----
+10:40:02.120 [main] INFO  testCase.EndToEndTest - ---- Completed Shopping Cart Page ----
+10:40:02.121 [main] INFO  testCase.EndToEndTest - ---- Starting Checkout Page ----
+10:40:06.910 [main] INFO  testCase.EndToEndTest - ---- Completed Checkout Page ----
+10:40:06.918 [main] INFO  testCase.EndToEndTest - ---- Starting Order Confirm Page ----
+10:40:09.583 [main] INFO  testCase.EndToEndTest - ---- Completed Order Confirm Page ----
+10:40:09.583 [main] INFO  testCase.EndToEndTest - ***** Finished EndToEnd Test Successfully *****
+10:41:26.360 [main] INFO  testCase.EndToEndTest - ***** Starting EndToEnd Test *****
+10:41:26.370 [main] INFO  testCase.EndToEndTest - ---- Starting Home Page ----
+10:41:27.061 [main] INFO  testCase.EndToEndTest - ---- Completed Home Page ----
+10:41:27.062 [main] INFO  testCase.EndToEndTest - ---- Starting Registration Page ----
+10:41:30.265 [main] INFO  testCase.EndToEndTest - ---- Completed Registration Page ----
+10:41:30.266 [main] INFO  testCase.EndToEndTest - ---- Starting Login Page ----
+10:41:31.421 [main] INFO  testCase.EndToEndTest - ---- Completed Login Page ----
+10:41:31.422 [main] INFO  testCase.EndToEndTest - ---- Starting Product Catalogue Page ----
+10:41:32.830 [main] INFO  testCase.EndToEndTest - ---- Completed Product Catalogue Page ----
+10:41:32.831 [main] INFO  testCase.EndToEndTest - ---- Starting Product Page ----
+10:41:35.341 [main] INFO  testCase.EndToEndTest - ---- Completed Product Page ----
+10:41:35.341 [main] INFO  testCase.EndToEndTest - ---- Starting Shopping Cart Page ----
+10:41:37.693 [main] INFO  testCase.EndToEndTest - ---- Completed Shopping Cart Page ----
+10:41:37.694 [main] INFO  testCase.EndToEndTest - ---- Starting Checkout Page ----
+10:41:42.064 [main] INFO  testCase.EndToEndTest - ---- Completed Checkout Page ----
+10:41:42.064 [main] INFO  testCase.EndToEndTest - ---- Starting Order Confirm Page ----
+10:41:44.577 [main] INFO  testCase.EndToEndTest - ---- Completed Order Confirm Page ----
+10:41:44.577 [main] INFO  testCase.EndToEndTest - ***** Finished EndToEnd Test Successfully *****
+11:16:58.331 [main] INFO  testCase.EndToEndTest - ***** Starting EndToEnd Test *****
+11:16:58.338 [main] INFO  testCase.EndToEndTest - ---- Starting Home Page ----
+11:16:59.752 [main] INFO  testCase.EndToEndTest - ---- Completed Home Page ----
+11:16:59.752 [main] INFO  testCase.EndToEndTest - ---- Starting Registration Page ----
+11:17:02.964 [main] INFO  testCase.EndToEndTest - ---- Completed Registration Page ----
+11:17:02.964 [main] INFO  testCase.EndToEndTest - ---- Starting Login Page ----
+11:17:04.196 [main] INFO  testCase.EndToEndTest - ---- Completed Login Page ----
+11:17:04.196 [main] INFO  testCase.EndToEndTest - ---- Starting Product Catalogue Page ----
+11:17:06.264 [main] INFO  testCase.EndToEndTest - ---- Completed Product Catalogue Page ----
+11:17:06.265 [main] INFO  testCase.EndToEndTest - ---- Starting Product Page ----
+11:17:08.683 [main] INFO  testCase.EndToEndTest - ---- Completed Product Page ----
+11:17:08.683 [main] INFO  testCase.EndToEndTest - ---- Starting Shopping Cart Page ----
+11:17:11.910 [main] INFO  testCase.EndToEndTest - ---- Completed Shopping Cart Page ----
+11:17:11.910 [main] INFO  testCase.EndToEndTest - ---- Starting Checkout Page ----
+11:17:16.353 [main] INFO  testCase.EndToEndTest - ---- Completed Checkout Page ----
+11:17:16.354 [main] INFO  testCase.EndToEndTest - ---- Starting Order Confirm Page ----
+11:17:18.994 [main] INFO  testCase.EndToEndTest - ---- Completed Order Confirm Page ----
+11:17:18.994 [main] INFO  testCase.EndToEndTest - ***** Finished EndToEnd Test Successfully *****
+11:21:15.827 [main] INFO  testCase.EndToEndTest - ***** Starting EndToEnd Test *****
+11:21:15.832 [main] INFO  testCase.EndToEndTest - ---- Starting Home Page ----
+11:21:17.248 [main] INFO  testCase.EndToEndTest - ---- Completed Home Page ----
+11:21:17.249 [main] INFO  testCase.EndToEndTest - ---- Starting Registration Page ----
+11:21:20.453 [main] INFO  testCase.EndToEndTest - ---- Completed Registration Page ----
+11:21:20.453 [main] INFO  testCase.EndToEndTest - ---- Starting Login Page ----
+11:21:21.633 [main] INFO  testCase.EndToEndTest - ---- Completed Login Page ----
+11:21:21.633 [main] INFO  testCase.EndToEndTest - ---- Starting Product Catalogue Page ----
+11:21:22.987 [main] INFO  testCase.EndToEndTest - ---- Completed Product Catalogue Page ----
+11:21:22.987 [main] INFO  testCase.EndToEndTest - ---- Starting Product Page ----
+11:21:25.408 [main] INFO  testCase.EndToEndTest - ---- Completed Product Page ----
+11:21:25.408 [main] INFO  testCase.EndToEndTest - ---- Starting Shopping Cart Page ----
+11:21:28.101 [main] INFO  testCase.EndToEndTest - ---- Completed Shopping Cart Page ----
+11:21:28.101 [main] INFO  testCase.EndToEndTest - ---- Starting Checkout Page ----
+11:28:04.296 [main] INFO  testCase.EndToEndTest - ***** Starting EndToEnd Test *****
+11:28:04.301 [main] INFO  testCase.EndToEndTest - ---- Starting Home Page ----
+11:28:05.267 [main] INFO  testCase.EndToEndTest - ---- Completed Home Page ----
+11:28:05.268 [main] INFO  testCase.EndToEndTest - ---- Starting Registration Page ----
+11:28:09.323 [main] INFO  testCase.EndToEndTest - ---- Completed Registration Page ----
+11:28:09.324 [main] INFO  testCase.EndToEndTest - ---- Starting Login Page ----
+11:28:10.445 [main] INFO  testCase.EndToEndTest - ---- Completed Login Page ----
+11:28:10.445 [main] INFO  testCase.EndToEndTest - ---- Starting Product Catalogue Page ----
+11:28:11.868 [main] INFO  testCase.EndToEndTest - ---- Completed Product Catalogue Page ----
+11:28:11.868 [main] INFO  testCase.EndToEndTest - ---- Starting Product Page ----
+11:28:14.286 [main] INFO  testCase.EndToEndTest - ---- Completed Product Page ----
+11:28:14.286 [main] INFO  testCase.EndToEndTest - ---- Starting Shopping Cart Page ----
+11:28:17.049 [main] INFO  testCase.EndToEndTest - ---- Completed Shopping Cart Page ----
+11:28:17.049 [main] INFO  testCase.EndToEndTest - ---- Starting Checkout Page ----
+11:28:23.807 [main] INFO  testCase.EndToEndTest - ---- Completed Checkout Page ----
+11:28:23.807 [main] INFO  testCase.EndToEndTest - ---- Starting Order Confirm Page ----
+11:28:26.304 [main] INFO  testCase.EndToEndTest - ---- Completed Order Confirm Page ----
+11:28:26.304 [main] INFO  testCase.EndToEndTest - ***** Finished EndToEnd Test Successfully *****
+11:34:40.539 [main] INFO  testCase.EndToEndTest - ***** Starting EndToEnd Test *****
+11:34:40.545 [main] INFO  testCase.EndToEndTest - ---- Starting Home Page ----
+11:34:41.989 [main] INFO  testCase.EndToEndTest - ---- Completed Home Page ----
+11:34:41.991 [main] INFO  testCase.EndToEndTest - ---- Starting Registration Page ----
+11:34:46.071 [main] INFO  testCase.EndToEndTest - ---- Completed Registration Page ----
+11:34:46.071 [main] INFO  testCase.EndToEndTest - ---- Starting Login Page ----
+11:34:47.186 [main] INFO  testCase.EndToEndTest - ---- Completed Login Page ----
+11:34:47.187 [main] INFO  testCase.EndToEndTest - ---- Starting Product Catalogue Page ----
+11:34:48.581 [main] INFO  testCase.EndToEndTest - ---- Completed Product Catalogue Page ----
+11:34:48.582 [main] INFO  testCase.EndToEndTest - ---- Starting Product Page ----
+11:34:51.051 [main] INFO  testCase.EndToEndTest - ---- Completed Product Page ----
+11:34:51.052 [main] INFO  testCase.EndToEndTest - ---- Starting Shopping Cart Page ----
+11:34:53.774 [main] INFO  testCase.EndToEndTest - ---- Completed Shopping Cart Page ----
+11:34:53.774 [main] INFO  testCase.EndToEndTest - ---- Starting Checkout Page ----
+11:34:58.019 [main] INFO  testCase.EndToEndTest - ---- Completed Checkout Page ----
+11:34:58.019 [main] INFO  testCase.EndToEndTest - ---- Starting Order Confirm Page ----
+11:35:00.468 [main] INFO  testCase.EndToEndTest - ---- Completed Order Confirm Page ----
+11:35:00.468 [main] INFO  testCase.EndToEndTest - ***** Finished EndToEnd Test Successfully *****
+11:40:45.766 [main] INFO  testCase.EndToEndTest - ***** Starting EndToEnd Test *****
+11:40:45.772 [main] INFO  testCase.EndToEndTest - ---- Starting Home Page ----
+11:40:47.317 [main] INFO  testCase.EndToEndTest - ---- Completed Home Page ----
+11:40:47.317 [main] INFO  testCase.EndToEndTest - ---- Starting Registration Page ----
+11:43:50.195 [main] INFO  testCase.EndToEndTest - ***** Starting EndToEnd Test *****
+11:43:50.202 [main] INFO  testCase.EndToEndTest - ---- Starting Home Page ----
+11:43:51.860 [main] INFO  testCase.EndToEndTest - ---- Completed Home Page ----
+11:43:51.860 [main] INFO  testCase.EndToEndTest - ---- Starting Registration Page ----
+11:43:56.205 [main] INFO  testCase.EndToEndTest - ---- Completed Registration Page ----
+11:43:56.205 [main] INFO  testCase.EndToEndTest - ---- Starting Login Page ----
+11:43:57.310 [main] INFO  testCase.EndToEndTest - ---- Completed Login Page ----
+11:43:57.310 [main] INFO  testCase.EndToEndTest - ---- Starting Product Catalogue Page ----
+11:43:58.972 [main] INFO  testCase.EndToEndTest - ---- Completed Product Catalogue Page ----
+11:43:58.972 [main] INFO  testCase.EndToEndTest - ---- Starting Product Page ----
+11:44:01.548 [main] INFO  testCase.EndToEndTest - ---- Completed Product Page ----
+11:44:01.549 [main] INFO  testCase.EndToEndTest - ---- Starting Shopping Cart Page ----
+11:44:04.851 [main] INFO  testCase.EndToEndTest - ---- Completed Shopping Cart Page ----
+11:44:04.851 [main] INFO  testCase.EndToEndTest - ---- Starting Checkout Page ----
+11:44:11.260 [main] INFO  testCase.EndToEndTest - ---- Completed Checkout Page ----
+11:44:11.260 [main] INFO  testCase.EndToEndTest - ---- Starting Order Confirm Page ----
+11:44:13.966 [main] INFO  testCase.EndToEndTest - ---- Completed Order Confirm Page ----
+11:44:13.966 [main] INFO  testCase.EndToEndTest - ***** Finished EndToEnd Test Successfully *****
+11:54:21.861 [main] INFO  testCase.EndToEndTest - ***** Starting EndToEnd Test *****
+11:54:21.869 [main] INFO  testCase.EndToEndTest - ---- Starting Home Page ----
+11:54:22.516 [main] INFO  testCase.EndToEndTest - ---- Completed Home Page ----
+11:54:22.516 [main] INFO  testCase.EndToEndTest - ---- Starting Registration Page ----
+11:54:25.885 [main] INFO  testCase.EndToEndTest - ---- Completed Registration Page ----
+11:54:25.886 [main] INFO  testCase.EndToEndTest - ---- Starting Login Page ----
+11:54:27.008 [main] INFO  testCase.EndToEndTest - ---- Completed Login Page ----
+11:54:27.009 [main] INFO  testCase.EndToEndTest - ---- Starting Product Catalogue Page ----
+11:54:28.384 [main] INFO  testCase.EndToEndTest - ---- Completed Product Catalogue Page ----
+11:54:28.384 [main] INFO  testCase.EndToEndTest - ---- Starting Product Page ----
+11:54:30.911 [main] INFO  testCase.EndToEndTest - ---- Completed Product Page ----
+11:54:30.911 [main] INFO  testCase.EndToEndTest - ---- Starting Shopping Cart Page ----
+11:54:33.672 [main] INFO  testCase.EndToEndTest - ---- Completed Shopping Cart Page ----
+11:54:33.673 [main] INFO  testCase.EndToEndTest - ---- Starting Checkout Page ----
+11:54:38.229 [main] INFO  testCase.EndToEndTest - ---- Completed Checkout Page ----
+11:54:38.229 [main] INFO  testCase.EndToEndTest - ---- Starting Order Confirm Page ----
+11:54:40.741 [main] INFO  testCase.EndToEndTest - ---- Completed Order Confirm Page ----
+11:54:40.741 [main] INFO  testCase.EndToEndTest - ***** Finished EndToEnd Test Successfully *****
+12:02:43.890 [main] INFO  testCase.EndToEndTest - ***** Starting EndToEnd Test *****
+12:02:43.898 [main] INFO  testCase.EndToEndTest - ---- Starting Home Page ----
+12:02:45.328 [main] INFO  testCase.EndToEndTest - ---- Completed Home Page ----
+12:02:45.329 [main] INFO  testCase.EndToEndTest - ---- Starting Registration Page ----
+12:04:48.927 [main] INFO  testCase.EndToEndTest - ***** Starting EndToEnd Test *****
+12:04:48.934 [main] INFO  testCase.EndToEndTest - ---- Starting Home Page ----
+12:04:49.555 [main] INFO  testCase.EndToEndTest - ---- Completed Home Page ----
+12:04:49.555 [main] INFO  testCase.EndToEndTest - ---- Starting Registration Page ----
+12:04:53.568 [main] INFO  testCase.EndToEndTest - ---- Completed Registration Page ----
+12:04:53.569 [main] INFO  testCase.EndToEndTest - ---- Starting Login Page ----
+12:04:54.696 [main] INFO  testCase.EndToEndTest - ---- Completed Login Page ----
+12:04:54.697 [main] INFO  testCase.EndToEndTest - ---- Starting Product Catalogue Page ----
+12:04:56.077 [main] INFO  testCase.EndToEndTest - ---- Completed Product Catalogue Page ----
+12:04:56.077 [main] INFO  testCase.EndToEndTest - ---- Starting Product Page ----
+12:04:58.452 [main] INFO  testCase.EndToEndTest - ---- Completed Product Page ----
+12:04:58.453 [main] INFO  testCase.EndToEndTest - ---- Starting Shopping Cart Page ----
+12:05:01.472 [main] INFO  testCase.EndToEndTest - ---- Completed Shopping Cart Page ----
+12:05:01.472 [main] INFO  testCase.EndToEndTest - ---- Starting Checkout Page ----
+12:06:25.064 [main] INFO  testCase.EndToEndTest - ***** Starting EndToEnd Test *****
+12:06:25.070 [main] INFO  testCase.EndToEndTest - ---- Starting Home Page ----
+12:06:26.638 [main] INFO  testCase.EndToEndTest - ---- Completed Home Page ----
+12:06:26.638 [main] INFO  testCase.EndToEndTest - ---- Starting Registration Page ----
+12:07:42.910 [main] INFO  testCase.EndToEndTest - ***** Starting EndToEnd Test *****
+12:07:42.918 [main] INFO  testCase.EndToEndTest - ---- Starting Home Page ----
+12:07:44.319 [main] INFO  testCase.EndToEndTest - ---- Completed Home Page ----
+12:07:44.319 [main] INFO  testCase.EndToEndTest - ---- Starting Registration Page ----
+12:07:49.145 [main] INFO  testCase.EndToEndTest - ---- Completed Registration Page ----
+12:07:49.146 [main] INFO  testCase.EndToEndTest - ---- Starting Login Page ----
+12:07:50.308 [main] INFO  testCase.EndToEndTest - ---- Completed Login Page ----
+12:07:50.308 [main] INFO  testCase.EndToEndTest - ---- Starting Product Catalogue Page ----
+12:07:52.426 [main] INFO  testCase.EndToEndTest - ---- Completed Product Catalogue Page ----
+12:07:52.426 [main] INFO  testCase.EndToEndTest - ---- Starting Product Page ----
+12:07:54.889 [main] INFO  testCase.EndToEndTest - ---- Completed Product Page ----
+12:07:54.889 [main] INFO  testCase.EndToEndTest - ---- Starting Shopping Cart Page ----
+12:07:57.157 [main] INFO  testCase.EndToEndTest - ---- Completed Shopping Cart Page ----
+12:07:57.158 [main] INFO  testCase.EndToEndTest - ---- Starting Checkout Page ----
+12:11:21.718 [main] INFO  testCase.EndToEndTest - ***** Starting EndToEnd Test *****
+12:11:21.725 [main] INFO  testCase.EndToEndTest - ---- Starting Home Page ----
+12:11:22.450 [main] INFO  testCase.EndToEndTest - ---- Completed Home Page ----
+12:11:22.451 [main] INFO  testCase.EndToEndTest - ---- Starting Registration Page ----
+12:11:26.572 [main] INFO  testCase.EndToEndTest - ---- Completed Registration Page ----
+12:11:26.572 [main] INFO  testCase.EndToEndTest - ---- Starting Login Page ----
+12:11:27.735 [main] INFO  testCase.EndToEndTest - ---- Completed Login Page ----
+12:11:27.735 [main] INFO  testCase.EndToEndTest - ---- Starting Product Catalogue Page ----
+12:11:29.165 [main] INFO  testCase.EndToEndTest - ---- Completed Product Catalogue Page ----
+12:11:29.166 [main] INFO  testCase.EndToEndTest - ---- Starting Product Page ----
+12:11:31.677 [main] INFO  testCase.EndToEndTest - ---- Completed Product Page ----
+12:11:31.677 [main] INFO  testCase.EndToEndTest - ---- Starting Shopping Cart Page ----
+12:11:35.010 [main] INFO  testCase.EndToEndTest - ---- Completed Shopping Cart Page ----
+12:11:35.011 [main] INFO  testCase.EndToEndTest - ---- Starting Checkout Page ----
+12:11:39.651 [main] INFO  testCase.EndToEndTest - ---- Completed Checkout Page ----
+12:11:39.651 [main] INFO  testCase.EndToEndTest - ---- Starting Order Confirm Page ----
+12:11:42.376 [main] INFO  testCase.EndToEndTest - ---- Completed Order Confirm Page ----
+12:11:42.376 [main] INFO  testCase.EndToEndTest - ***** Finished EndToEnd Test Successfully *****
+12:17:23.976 [main] INFO  testCase.EndToEndTest - ***** Starting EndToEnd Test *****
+12:17:23.982 [main] INFO  testCase.EndToEndTest - ---- Starting Home Page ----
+12:17:25.399 [main] INFO  testCase.EndToEndTest - ---- Completed Home Page ----
+12:17:25.400 [main] INFO  testCase.EndToEndTest - ---- Starting Registration Page ----
+12:17:30.130 [main] INFO  testCase.EndToEndTest - ---- Completed Registration Page ----
+12:17:30.130 [main] INFO  testCase.EndToEndTest - ---- Starting Login Page ----
+12:17:31.275 [main] INFO  testCase.EndToEndTest - ---- Completed Login Page ----
+12:17:31.275 [main] INFO  testCase.EndToEndTest - ---- Starting Product Catalogue Page ----
+12:17:32.651 [main] INFO  testCase.EndToEndTest - ---- Completed Product Catalogue Page ----
+12:17:32.651 [main] INFO  testCase.EndToEndTest - ---- Starting Product Page ----
+12:17:35.124 [main] INFO  testCase.EndToEndTest - ---- Completed Product Page ----
+12:17:35.124 [main] INFO  testCase.EndToEndTest - ---- Starting Shopping Cart Page ----
+12:17:37.929 [main] INFO  testCase.EndToEndTest - ---- Completed Shopping Cart Page ----
+12:17:37.930 [main] INFO  testCase.EndToEndTest - ---- Starting Checkout Page ----
+12:26:29.944 [main] INFO  testCase.EndToEndTest - ***** Starting EndToEnd Test *****
+12:26:29.953 [main] INFO  testCase.EndToEndTest - ---- Starting Home Page ----
+12:26:31.375 [main] INFO  testCase.EndToEndTest - ---- Completed Home Page ----
+12:26:31.377 [main] INFO  testCase.EndToEndTest - ---- Starting Registration Page ----
+12:26:35.394 [main] INFO  testCase.EndToEndTest - ---- Completed Registration Page ----
+12:26:35.394 [main] INFO  testCase.EndToEndTest - ---- Starting Login Page ----
+12:26:36.507 [main] INFO  testCase.EndToEndTest - ---- Completed Login Page ----
+12:26:36.508 [main] INFO  testCase.EndToEndTest - ---- Starting Product Catalogue Page ----
+12:26:37.880 [main] INFO  testCase.EndToEndTest - ---- Completed Product Catalogue Page ----
+12:26:37.885 [main] INFO  testCase.EndToEndTest - ---- Starting Product Page ----
+12:26:40.307 [main] INFO  testCase.EndToEndTest - ---- Completed Product Page ----
+12:26:40.307 [main] INFO  testCase.EndToEndTest - ---- Starting Shopping Cart Page ----
+12:26:42.442 [main] INFO  testCase.EndToEndTest - ---- Completed Shopping Cart Page ----
+12:26:42.442 [main] INFO  testCase.EndToEndTest - ---- Starting Checkout Page ----
+12:26:46.965 [main] INFO  testCase.EndToEndTest - ---- Completed Checkout Page ----
+12:26:46.965 [main] INFO  testCase.EndToEndTest - ---- Starting Order Confirm Page ----
+12:26:49.458 [main] INFO  testCase.EndToEndTest - ---- Completed Order Confirm Page ----
+12:26:49.458 [main] INFO  testCase.EndToEndTest - ***** Finished EndToEnd Test Successfully *****
+12:33:44.190 [TestNG-tests-1] INFO  testCase.EndToEndTest - ***** Starting EndToEnd Test *****
+12:33:44.197 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Home Page ----
+12:33:45.000 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Home Page ----
+12:33:45.000 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Registration Page ----
+12:33:49.199 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Registration Page ----
+12:33:49.200 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Login Page ----
+12:33:50.401 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Login Page ----
+12:33:50.401 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Product Catalogue Page ----
+12:33:51.991 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Product Catalogue Page ----
+12:33:51.991 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Product Page ----
+12:33:55.219 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Product Page ----
+12:33:55.220 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Shopping Cart Page ----
+12:34:01.291 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Shopping Cart Page ----
+12:34:01.291 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Checkout Page ----
+12:34:07.414 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Checkout Page ----
+12:34:07.414 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Order Confirm Page ----
+12:34:10.347 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Order Confirm Page ----
+12:34:10.347 [TestNG-tests-1] INFO  testCase.EndToEndTest - ***** Finished EndToEnd Test Successfully *****
+12:39:27.573 [TestNG-tests-1] INFO  testCase.EndToEndTest - ***** Starting EndToEnd Test *****
+12:39:27.580 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Home Page ----
+12:39:28.323 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Home Page ----
+12:39:28.323 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Registration Page ----
+12:41:39.067 [TestNG-test=AllTests-1] INFO  testCase.EndToEndTest - ***** Starting EndToEnd Test *****
+12:41:39.128 [TestNG-test=AllTests-1] INFO  testCase.EndToEndTest - ---- Starting Home Page ----
+12:41:42.882 [TestNG-test=AllTests-1] INFO  testCase.EndToEndTest - ---- Completed Home Page ----
+12:41:42.882 [TestNG-test=AllTests-1] INFO  testCase.EndToEndTest - ---- Starting Registration Page ----
+12:43:55.961 [TestNG-tests-1] INFO  testCase.EndToEndTest - ***** Starting EndToEnd Test *****
+12:43:55.967 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Home Page ----
+12:43:57.457 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Home Page ----
+12:43:57.458 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Registration Page ----
+12:44:01.650 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Registration Page ----
+12:44:01.650 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Login Page ----
+12:44:02.752 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Login Page ----
+12:44:02.752 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Product Catalogue Page ----
+12:44:05.172 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Product Catalogue Page ----
+12:44:05.172 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Product Page ----
+12:44:08.517 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Product Page ----
+12:44:08.517 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Shopping Cart Page ----
+12:44:10.783 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Shopping Cart Page ----
+12:44:10.784 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Checkout Page ----
+12:44:15.475 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Checkout Page ----
+12:44:15.475 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Order Confirm Page ----
+12:44:18.055 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Order Confirm Page ----
+12:44:18.055 [TestNG-tests-1] INFO  testCase.EndToEndTest - ***** Finished EndToEnd Test Successfully *****
+12:45:42.653 [TestNG-tests-1] INFO  testCase.EndToEndTest - ***** Starting EndToEnd Test *****
+12:45:42.663 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Home Page ----
+12:45:44.147 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Home Page ----
+12:45:44.147 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Registration Page ----
+12:45:48.269 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Registration Page ----
+12:45:48.270 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Login Page ----
+12:45:49.465 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Login Page ----
+12:45:49.466 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Product Catalogue Page ----
+12:45:50.874 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Product Catalogue Page ----
+12:45:50.874 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Product Page ----
+12:45:53.336 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Product Page ----
+12:45:53.336 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Shopping Cart Page ----
+12:45:56.179 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Shopping Cart Page ----
+12:45:56.179 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Checkout Page ----
+12:46:00.873 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Checkout Page ----
+12:46:00.873 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Order Confirm Page ----
+12:46:03.710 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Order Confirm Page ----
+12:46:03.711 [TestNG-tests-1] INFO  testCase.EndToEndTest - ***** Finished EndToEnd Test Successfully *****
+12:47:43.051 [TestNG-test=AllTests-1] INFO  testCase.EndToEndTest - ***** Starting EndToEnd Test *****
+12:47:43.059 [TestNG-test=AllTests-1] INFO  testCase.EndToEndTest - ---- Starting Home Page ----
+12:48:38.534 [TestNG-test=AllTests-1] INFO  testCase.EndToEndTest - ***** Starting EndToEnd Test *****
+12:48:38.542 [TestNG-test=AllTests-1] INFO  testCase.EndToEndTest - ---- Starting Home Page ----
+12:48:40.327 [TestNG-test=AllTests-1] INFO  testCase.EndToEndTest - ---- Completed Home Page ----
+12:48:40.328 [TestNG-test=AllTests-1] INFO  testCase.EndToEndTest - ---- Starting Registration Page ----
+12:48:46.224 [TestNG-test=AllTests-1] INFO  testCase.EndToEndTest - ---- Completed Registration Page ----
+12:48:46.226 [TestNG-test=AllTests-1] INFO  testCase.EndToEndTest - ---- Starting Login Page ----
+12:49:53.314 [TestNG-test=AllTests-1] INFO  testCase.EndToEndTest - ***** Starting EndToEnd Test *****
+12:49:53.321 [TestNG-test=AllTests-1] INFO  testCase.EndToEndTest - ---- Starting Home Page ----
+12:51:27.250 [TestNG-test=AllTests-1] INFO  testCase.EndToEndTest - ***** Starting EndToEnd Test *****
+12:51:27.260 [TestNG-test=AllTests-1] INFO  testCase.EndToEndTest - ---- Starting Home Page ----
+12:51:30.611 [TestNG-test=AllTests-1] INFO  testCase.EndToEndTest - ---- Completed Home Page ----
+12:51:30.611 [TestNG-test=AllTests-1] INFO  testCase.EndToEndTest - ---- Starting Registration Page ----
+12:52:54.605 [TestNG-test=AllTests-1] INFO  testCase.EndToEndTest - ***** Starting EndToEnd Test *****
+12:52:54.616 [TestNG-test=AllTests-1] INFO  testCase.EndToEndTest - ---- Starting Home Page ----
+12:54:33.866 [TestNG-tests-1] INFO  testCase.EndToEndTest - ***** Starting EndToEnd Test *****
+12:54:33.874 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Home Page ----
+12:54:35.327 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Home Page ----
+12:54:35.328 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Registration Page ----
+12:54:39.554 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Registration Page ----
+12:54:39.555 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Login Page ----
+12:54:40.687 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Login Page ----
+12:54:40.687 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Product Catalogue Page ----
+12:54:42.196 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Product Catalogue Page ----
+12:54:42.196 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Product Page ----
+12:54:44.700 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Product Page ----
+12:54:44.700 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Shopping Cart Page ----
+12:54:47.988 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Shopping Cart Page ----
+12:54:47.989 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Checkout Page ----
+12:54:52.610 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Checkout Page ----
+12:54:52.610 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Order Confirm Page ----
+12:54:55.266 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Order Confirm Page ----
+12:54:55.267 [TestNG-tests-1] INFO  testCase.EndToEndTest - ***** Finished EndToEnd Test Successfully *****
+12:56:05.540 [TestNG-test=AllTests-1] INFO  testCase.EndToEndTest - ***** Starting EndToEnd Test *****
+12:56:05.562 [TestNG-test=AllTests-1] INFO  testCase.EndToEndTest - ---- Starting Home Page ----
+12:57:54.853 [TestNG-test=AllTests-1] INFO  testCase.EndToEndTest - ***** Starting EndToEnd Test *****
+12:57:54.859 [TestNG-test=AllTests-1] INFO  testCase.EndToEndTest - ---- Starting Home Page ----
+12:57:58.587 [TestNG-test=AllTests-1] INFO  testCase.EndToEndTest - ---- Completed Home Page ----
+12:57:58.587 [TestNG-test=AllTests-1] INFO  testCase.EndToEndTest - ---- Starting Registration Page ----
+12:58:03.523 [TestNG-test=AllTests-1] INFO  testCase.EndToEndTest - ---- Completed Registration Page ----
+12:58:03.523 [TestNG-test=AllTests-1] INFO  testCase.EndToEndTest - ---- Starting Login Page ----
+12:58:48.405 [TestNG-tests-1] INFO  testCase.EndToEndTest - ***** Starting EndToEnd Test *****
+12:58:48.411 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Home Page ----
+12:58:49.880 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Home Page ----
+12:58:49.880 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Registration Page ----
+12:58:54.012 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Registration Page ----
+12:58:54.012 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Login Page ----
+12:58:55.149 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Login Page ----
+12:58:55.150 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Product Catalogue Page ----
+12:58:56.739 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Product Catalogue Page ----
+12:58:56.739 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Product Page ----
+12:58:59.282 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Product Page ----
+12:58:59.282 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Shopping Cart Page ----
+12:59:02.000 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Shopping Cart Page ----
+12:59:02.000 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Checkout Page ----
+12:59:06.708 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Checkout Page ----
+12:59:06.709 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Order Confirm Page ----
+12:59:09.292 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Order Confirm Page ----
+12:59:09.293 [TestNG-tests-1] INFO  testCase.EndToEndTest - ***** Finished EndToEnd Test Successfully *****
+15:04:40.881 [TestNG-tests-1] INFO  testCase.EndToEndTest - ***** Starting EndToEnd Test *****
+15:04:40.888 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Home Page ----
+15:04:42.465 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Home Page ----
+15:04:42.465 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Registration Page ----
+15:04:46.451 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Registration Page ----
+15:04:46.451 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Login Page ----
+15:04:47.597 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Login Page ----
+15:04:47.598 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Product Catalogue Page ----
+15:04:49.022 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Product Catalogue Page ----
+15:04:49.023 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Product Page ----
+15:04:51.467 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Product Page ----
+15:04:51.467 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Shopping Cart Page ----
+15:04:54.334 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Shopping Cart Page ----
+15:04:54.334 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Checkout Page ----
+15:04:58.929 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Checkout Page ----
+15:04:58.930 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Order Confirm Page ----
+15:05:01.652 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Order Confirm Page ----
+15:05:01.652 [TestNG-tests-1] INFO  testCase.EndToEndTest - ***** Finished EndToEnd Test Successfully *****
+16:20:51.505 [main] INFO  testCase.EndToEndTest - ***** Starting EndToEnd Test *****
+16:20:51.512 [main] INFO  testCase.EndToEndTest - ---- Starting Home Page ----
+16:20:52.211 [main] INFO  testCase.EndToEndTest - ---- Completed Home Page ----
+16:20:52.212 [main] INFO  testCase.EndToEndTest - ---- Starting Registration Page ----
+16:20:55.588 [main] INFO  testCase.EndToEndTest - ---- Completed Registration Page ----
+16:20:55.588 [main] INFO  testCase.EndToEndTest - ---- Starting Login Page ----
+16:20:56.793 [main] INFO  testCase.EndToEndTest - ---- Completed Login Page ----
+16:20:56.793 [main] INFO  testCase.EndToEndTest - ---- Starting Product Catalogue Page ----
+16:20:58.158 [main] INFO  testCase.EndToEndTest - ---- Completed Product Catalogue Page ----
+16:20:58.158 [main] INFO  testCase.EndToEndTest - ---- Starting Product Page ----
+16:21:01.438 [main] INFO  testCase.EndToEndTest - ---- Completed Product Page ----
+16:21:01.438 [main] INFO  testCase.EndToEndTest - ---- Starting Shopping Cart Page ----
+16:21:03.730 [main] INFO  testCase.EndToEndTest - ---- Completed Shopping Cart Page ----
+16:21:03.731 [main] INFO  testCase.EndToEndTest - ---- Starting Checkout Page ----
+16:21:09.445 [main] INFO  testCase.EndToEndTest - ---- Completed Checkout Page ----
+16:21:09.445 [main] INFO  testCase.EndToEndTest - ---- Starting Order Confirm Page ----
+16:21:12.374 [main] INFO  testCase.EndToEndTest - ---- Completed Order Confirm Page ----
+16:21:12.374 [main] INFO  testCase.EndToEndTest - ***** Finished EndToEnd Test Successfully *****
+16:55:42.534 [main] INFO  testCase.EndToEndTest - ***** Starting EndToEnd Test *****
+16:55:42.541 [main] INFO  testCase.EndToEndTest - ---- Starting Home Page ----
+16:55:44.005 [main] INFO  testCase.EndToEndTest - ---- Completed Home Page ----
+16:55:44.006 [main] INFO  testCase.EndToEndTest - ---- Starting Registration Page ----
+16:55:47.373 [main] INFO  testCase.EndToEndTest - ---- Completed Registration Page ----
+16:55:47.374 [main] INFO  testCase.EndToEndTest - ---- Starting Login Page ----
+16:55:48.516 [main] INFO  testCase.EndToEndTest - ---- Completed Login Page ----
+16:55:48.517 [main] INFO  testCase.EndToEndTest - ---- Starting Product Catalogue Page ----
+16:55:50.002 [main] INFO  testCase.EndToEndTest - ---- Completed Product Catalogue Page ----
+16:55:50.002 [main] INFO  testCase.EndToEndTest - ---- Starting Product Page ----
+16:57:55.554 [main] INFO  testCase.EndToEndTest - ***** Starting EndToEnd Test *****
+16:57:55.564 [main] INFO  testCase.EndToEndTest - ---- Starting Home Page ----
+16:57:57.050 [main] INFO  testCase.EndToEndTest - ---- Completed Home Page ----
+16:57:57.051 [main] INFO  testCase.EndToEndTest - ---- Starting Registration Page ----
+16:58:00.360 [main] INFO  testCase.EndToEndTest - ---- Completed Registration Page ----
+16:58:00.360 [main] INFO  testCase.EndToEndTest - ---- Starting Login Page ----
+16:58:02.250 [main] INFO  testCase.EndToEndTest - ---- Completed Login Page ----
+16:58:02.251 [main] INFO  testCase.EndToEndTest - ---- Starting Product Catalogue Page ----
+16:58:03.667 [main] INFO  testCase.EndToEndTest - ---- Completed Product Catalogue Page ----
+16:58:03.667 [main] INFO  testCase.EndToEndTest - ---- Starting Product Page ----
+16:58:06.120 [main] INFO  testCase.EndToEndTest - ---- Completed Product Page ----
+16:58:06.121 [main] INFO  testCase.EndToEndTest - ---- Starting Shopping Cart Page ----
+16:58:08.907 [main] INFO  testCase.EndToEndTest - ---- Completed Shopping Cart Page ----
+16:58:08.907 [main] INFO  testCase.EndToEndTest - ---- Starting Checkout Page ----
+16:58:13.594 [main] INFO  testCase.EndToEndTest - ---- Completed Checkout Page ----
+16:58:13.595 [main] INFO  testCase.EndToEndTest - ---- Starting Order Confirm Page ----
+16:58:16.330 [main] INFO  testCase.EndToEndTest - ---- Completed Order Confirm Page ----
+16:58:16.331 [main] INFO  testCase.EndToEndTest - ***** Finished EndToEnd Test Successfully *****
+16:59:44.303 [TestNG-tests-1] INFO  testCase.EndToEndTest - ***** Starting EndToEnd Test *****
+16:59:44.315 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Home Page ----
+16:59:46.047 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Home Page ----
+16:59:46.048 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Registration Page ----
+16:59:51.982 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Registration Page ----
+16:59:51.982 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Login Page ----
+16:59:54.075 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Login Page ----
+16:59:54.075 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Product Catalogue Page ----
+16:59:56.648 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Product Catalogue Page ----
+16:59:56.649 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Product Page ----
+16:59:59.541 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Product Page ----
+16:59:59.541 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Shopping Cart Page ----
+17:00:02.590 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Shopping Cart Page ----
+17:00:02.592 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Checkout Page ----
+17:00:10.052 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Checkout Page ----
+17:00:10.052 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Order Confirm Page ----
+17:00:12.898 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Order Confirm Page ----
+17:00:12.898 [TestNG-tests-1] INFO  testCase.EndToEndTest - ***** Finished EndToEnd Test Successfully *****
+17:02:21.402 [TestNG-tests-1] INFO  testCase.EndToEndTest - ***** Starting EndToEnd Test *****
+17:02:21.410 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Home Page ----
+17:02:22.422 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Home Page ----
+17:02:22.423 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Registration Page ----
+17:02:27.409 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Registration Page ----
+17:02:27.409 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Login Page ----
+17:02:28.756 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Login Page ----
+17:02:28.757 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Product Catalogue Page ----
+17:02:30.648 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Product Catalogue Page ----
+17:02:30.649 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Product Page ----
+17:02:33.381 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Product Page ----
+17:02:33.382 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Shopping Cart Page ----
+17:02:36.800 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Shopping Cart Page ----
+17:02:36.801 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Checkout Page ----
+17:02:42.018 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Checkout Page ----
+17:02:42.019 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Starting Order Confirm Page ----
+17:02:44.867 [TestNG-tests-1] INFO  testCase.EndToEndTest - ---- Completed Order Confirm Page ----
+17:02:44.868 [TestNG-tests-1] INFO  testCase.EndToEndTest - ***** Finished EndToEnd Test Successfully *****
+17:13:40.919 [main] INFO  testCase.EndToEndTest - ***** Starting EndToEnd Test *****
+17:13:40.928 [main] INFO  testCase.EndToEndTest - ---- Starting Home Page ----
+17:13:42.412 [main] INFO  testCase.EndToEndTest - ---- Completed Home Page ----
+17:13:42.412 [main] INFO  testCase.EndToEndTest - ---- Starting Registration Page ----
+17:13:45.998 [main] INFO  testCase.EndToEndTest - ---- Completed Registration Page ----
+17:13:45.998 [main] INFO  testCase.EndToEndTest - ---- Starting Login Page ----
+17:13:47.298 [main] INFO  testCase.EndToEndTest - ---- Completed Login Page ----
+17:13:47.298 [main] INFO  testCase.EndToEndTest - ---- Starting Product Catalogue Page ----
+17:13:48.830 [main] INFO  testCase.EndToEndTest - ---- Completed Product Catalogue Page ----
+17:13:48.830 [main] INFO  testCase.EndToEndTest - ---- Starting Product Page ----
+17:13:52.083 [main] INFO  testCase.EndToEndTest - ---- Completed Product Page ----
+17:13:52.084 [main] INFO  testCase.EndToEndTest - ---- Starting Shopping Cart Page ----
+17:13:54.909 [main] INFO  testCase.EndToEndTest - ---- Completed Shopping Cart Page ----
+17:13:54.910 [main] INFO  testCase.EndToEndTest - ---- Starting Checkout Page ----
+17:13:59.546 [main] INFO  testCase.EndToEndTest - ---- Completed Checkout Page ----
+17:13:59.547 [main] INFO  testCase.EndToEndTest - ---- Starting Order Confirm Page ----
+17:14:02.358 [main] INFO  testCase.EndToEndTest - ---- Completed Order Confirm Page ----
+17:14:02.359 [main] INFO  testCase.EndToEndTest - ***** Finished EndToEnd Test Successfully *****
+07:19:16.847 [main] INFO  testCase.EndToEndTest - ***** Starting EndToEnd Test *****
+07:19:16.853 [main] INFO  testCase.EndToEndTest - ---- Starting Home Page ----
+07:19:18.210 [main] INFO  testCase.EndToEndTest - ---- Completed Home Page ----
+07:19:18.210 [main] INFO  testCase.EndToEndTest - ---- Starting Registration Page ----
+07:19:21.227 [main] INFO  testCase.EndToEndTest - ---- Completed Registration Page ----
+07:19:21.228 [main] INFO  testCase.EndToEndTest - ---- Starting Login Page ----
+07:19:22.289 [main] INFO  testCase.EndToEndTest - ---- Completed Login Page ----
+07:19:22.290 [main] INFO  testCase.EndToEndTest - ---- Starting Product Catalogue Page ----
+07:19:24.555 [main] INFO  testCase.EndToEndTest - ---- Completed Product Catalogue Page ----
+07:19:24.556 [main] INFO  testCase.EndToEndTest - ---- Starting Product Page ----
+07:21:07.316 [main] INFO  testCase.EndToEndTest - ***** Starting EndToEnd Test *****
+07:21:07.322 [main] INFO  testCase.EndToEndTest - ---- Starting Home Page ----
+07:21:09.679 [main] INFO  testCase.EndToEndTest - ---- Completed Home Page ----
+07:21:09.679 [main] INFO  testCase.EndToEndTest - ---- Starting Registration Page ----
+07:22:16.983 [main] INFO  testCase.EndToEndTest - ***** Starting EndToEnd Test *****
+07:22:16.991 [main] INFO  testCase.EndToEndTest - ---- Starting Home Page ----
+07:22:18.331 [main] INFO  testCase.EndToEndTest - ---- Completed Home Page ----
+07:22:18.332 [main] INFO  testCase.EndToEndTest - ---- Starting Registration Page ----
+07:22:21.381 [main] INFO  testCase.EndToEndTest - ---- Completed Registration Page ----
+07:22:21.382 [main] INFO  testCase.EndToEndTest - ---- Starting Login Page ----
+07:22:22.459 [main] INFO  testCase.EndToEndTest - ---- Completed Login Page ----
+07:22:22.459 [main] INFO  testCase.EndToEndTest - ---- Starting Product Catalogue Page ----
+07:22:24.598 [main] INFO  testCase.EndToEndTest - ---- Completed Product Catalogue Page ----
+07:22:24.598 [main] INFO  testCase.EndToEndTest - ---- Starting Product Page ----
+07:25:59.504 [main] INFO  testCase.EndToEndTest - ***** Starting EndToEnd Test *****
+07:25:59.510 [main] INFO  testCase.EndToEndTest - ---- Starting Home Page ----
+07:26:00.911 [main] INFO  testCase.EndToEndTest - ---- Completed Home Page ----
+07:26:00.912 [main] INFO  testCase.EndToEndTest - ---- Starting Registration Page ----
+07:26:04.706 [main] INFO  testCase.EndToEndTest - ---- Completed Registration Page ----
+07:26:04.706 [main] INFO  testCase.EndToEndTest - ---- Starting Login Page ----
+07:26:05.746 [main] INFO  testCase.EndToEndTest - ---- Completed Login Page ----
+07:26:05.747 [main] INFO  testCase.EndToEndTest - ---- Starting Product Catalogue Page ----
+07:26:07.001 [main] INFO  testCase.EndToEndTest - ---- Completed Product Catalogue Page ----
+07:26:07.001 [main] INFO  testCase.EndToEndTest - ---- Starting Product Page ----
+07:26:11.340 [main] INFO  testCase.EndToEndTest - ---- Completed Product Page ----
+07:26:11.340 [main] INFO  testCase.EndToEndTest - ---- Starting Shopping Cart Page ----
+07:26:13.942 [main] INFO  testCase.EndToEndTest - ---- Completed Shopping Cart Page ----
+07:26:13.942 [main] INFO  testCase.EndToEndTest - ---- Starting Checkout Page ----
+07:26:18.170 [main] INFO  testCase.EndToEndTest - ---- Completed Checkout Page ----
+07:26:18.171 [main] INFO  testCase.EndToEndTest - ---- Starting Order Confirm Page ----
+07:26:20.993 [main] INFO  testCase.EndToEndTest - ---- Completed Order Confirm Page ----
+07:26:20.993 [main] INFO  testCase.EndToEndTest - ***** Finished EndToEnd Test Successfully *****
+12:19:24.761 [main] INFO  testCase.EndToEndTest - ***** Starting EndToEnd Test *****
+12:19:24.766 [main] INFO  testCase.EndToEndTest - ---- Starting Home Page ----
+12:19:26.395 [main] INFO  testCase.EndToEndTest - ---- Completed Home Page ----
+12:19:26.395 [main] INFO  testCase.EndToEndTest - ---- Starting Registration Page ----
+12:19:29.602 [main] INFO  testCase.EndToEndTest - ---- Completed Registration Page ----
+12:19:29.604 [main] INFO  testCase.EndToEndTest - ---- Starting Login Page ----
+12:19:30.818 [main] INFO  testCase.EndToEndTest - ---- Completed Login Page ----
+12:19:30.819 [main] INFO  testCase.EndToEndTest - ---- Starting Product Catalogue Page ----
+12:19:33.127 [main] INFO  testCase.EndToEndTest - ---- Completed Product Catalogue Page ----
+12:19:33.128 [main] INFO  testCase.EndToEndTest - ---- Starting Product Page ----
+12:19:35.631 [main] INFO  testCase.EndToEndTest - ---- Completed Product Page ----
+12:19:35.632 [main] INFO  testCase.EndToEndTest - ---- Starting Shopping Cart Page ----
+12:19:38.423 [main] INFO  testCase.EndToEndTest - ---- Completed Shopping Cart Page ----
+12:19:38.423 [main] INFO  testCase.EndToEndTest - ---- Starting Checkout Page ----
+12:19:43.076 [main] INFO  testCase.EndToEndTest - ---- Completed Checkout Page ----
+12:19:43.076 [main] INFO  testCase.EndToEndTest - ---- Starting Order Confirm Page ----
+12:19:45.772 [main] INFO  testCase.EndToEndTest - ---- Completed Order Confirm Page ----
+12:19:45.773 [main] INFO  testCase.EndToEndTest - ***** Finished EndToEnd Test Successfully *****
+13:01:11.350 [main] INFO  testCase.EndToEndTest - ***** Starting EndToEnd Test *****
+13:01:11.354 [main] INFO  testCase.EndToEndTest - ---- Starting Home Page ----
+13:01:12.685 [main] INFO  testCase.EndToEndTest - ---- Completed Home Page ----
+13:01:12.685 [main] INFO  testCase.EndToEndTest - ---- Starting Registration Page ----
+13:01:16.443 [main] INFO  testCase.EndToEndTest - ---- Completed Registration Page ----
+13:01:16.444 [main] INFO  testCase.EndToEndTest - ---- Starting Login Page ----
+13:01:17.491 [main] INFO  testCase.EndToEndTest - ---- Completed Login Page ----
+13:01:17.491 [main] INFO  testCase.EndToEndTest - ---- Starting Product Catalogue Page ----
+13:01:18.742 [main] INFO  testCase.EndToEndTest - ---- Completed Product Catalogue Page ----
+13:01:18.743 [main] INFO  testCase.EndToEndTest - ---- Starting Product Page ----
+13:01:21.069 [main] INFO  testCase.EndToEndTest - ---- Completed Product Page ----
+13:01:21.069 [main] INFO  testCase.EndToEndTest - ---- Starting Shopping Cart Page ----
+13:01:23.641 [main] INFO  testCase.EndToEndTest - ---- Completed Shopping Cart Page ----
+13:01:23.642 [main] INFO  testCase.EndToEndTest - ---- Starting Checkout Page ----
+13:01:27.868 [main] INFO  testCase.EndToEndTest - ---- Completed Checkout Page ----
+13:01:27.869 [main] INFO  testCase.EndToEndTest - ---- Starting Order Confirm Page ----
+13:01:30.487 [main] INFO  testCase.EndToEndTest - ---- Completed Order Confirm Page ----
+13:01:30.488 [main] INFO  testCase.EndToEndTest - ***** Finished EndToEnd Test Successfully *****
+18:30:00.433 [main] INFO  testCase.LoginDataDrivenTest - ***** Starting Login Data Driven Test *****
+18:30:09.844 [main] INFO  testCase.LoginDataDrivenTest - ***** Starting Login Data Driven Test *****
+18:30:18.552 [main] INFO  testCase.LoginDataDrivenTest - ***** Starting Login Data Driven Test *****
+18:30:26.676 [main] INFO  testCase.LoginDataDrivenTest - ***** Starting Login Data Driven Test *****
+18:30:33.943 [main] INFO  testCase.LoginDataDrivenTest - ***** Starting Login Data Driven Test *****
+18:52:12.451 [main] INFO  testCase.LoginDataDrivenTest - ***** Starting Login Data Driven Test *****
